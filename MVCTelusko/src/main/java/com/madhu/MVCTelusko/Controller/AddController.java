@@ -91,6 +91,11 @@ public class AddController {
 	{
 		return "hello hoe are you";
 	}
+	
+	public String resMessage2()
+	{
+		return "adding new branch feature1";
+	}
 
 
 
