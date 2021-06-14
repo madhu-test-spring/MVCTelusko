@@ -86,6 +86,11 @@ public class AddController {
 		return mv;
 				
 	}
+	
+	public String resMessage()
+	{
+		return "hello hoe are you";
+	}
 
 
 
